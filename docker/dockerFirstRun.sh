@@ -1,0 +1,1 @@
+docker run -p 9093:8080 --network="bridge" --privileged --name demopersister demopersister
